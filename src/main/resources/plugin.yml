@@ -1,0 +1,4 @@
+name: Survpostor
+version: ${project.version}
+main: me.mrfunny.plugins.spigot.survpostotr.Survpostor
+api-version: 1.17
